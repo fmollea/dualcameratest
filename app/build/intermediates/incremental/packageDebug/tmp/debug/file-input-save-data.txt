@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 03 12:09:52 ART 2021
+0.baseType=DIRECTORY
+0.base=/Users/fmollea/Projects/AndroidProjects/dualcameratest/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

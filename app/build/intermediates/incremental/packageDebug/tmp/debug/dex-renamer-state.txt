@@ -1,0 +1,4 @@
+#Wed Nov 03 12:09:52 ART 2021
+base.0=/Users/fmollea/Projects/AndroidProjects/dualcameratest/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
